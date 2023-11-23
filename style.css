@@ -20,6 +20,14 @@ h2{
     text-shadow: 5px 3px 1px orangered;
 }
 
+h3{
+    color: #cf8c0e;
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Abril Fatface', serif;
+    text-shadow: 5px 3px 1px orangered;
+}
+
 p{
 color: #cf8c0e;
 text-align: center;
